@@ -24,5 +24,15 @@ Each program is written with **clear code** and **modular structure** for easy u
 - **Concepts Used:** Loops, Conditional Statements, Functions
 
 ---
+## ▶️ How to Run
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/java-pattern-problems.git
+2. Navigate to the project folder
+   ```bash
+   cd java-pattern-problems
 
-
+3. Compile and run any pattern file
+   ```bash
+   javac PatternX.java
+   java PatternX
